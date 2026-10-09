@@ -13,3 +13,4 @@ pico_sdk_init()
 
 # One subdirectory per exercise
 add_subdirectory(01-blink)
+add_subdirectory(02-button)
